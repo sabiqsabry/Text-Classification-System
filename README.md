@@ -1,5 +1,7 @@
 # 📰 Fake News Classification System (Task A – CT052-3-M-NLP)
 
+![Text Classification System](Text%20Classification%20System.png)
+
 This project is a classical NLP-based text classification system built for **Task A of the CT052-3-M-NLP module** at **Asia Pacific University**. It detects whether a given news article is **FAKE** or **REAL** using supervised machine learning models and text preprocessing.
 
 ## 📂 Dataset
